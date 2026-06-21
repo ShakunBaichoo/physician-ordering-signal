@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Data — never commit
+data/
+*.parquet
+*.csv
+*.feather
+*.h5
+*.hdf5
+
+# Model artefacts
+*.pkl
+*.pt
+*.pth
+*.joblib
+*.lgb
+*.bin
+
+# Results / outputs
+results/
+results_*/
+figures/
+*.png
+*.pdf
+*.svg
+*.docx
+*.xlsx
+
+# Logs
+*.log
+logs/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+._*
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Local handoff notes — never publish
+prompt.md
+

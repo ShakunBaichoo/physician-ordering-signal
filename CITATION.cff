@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript."
+title: "physician-ordering-signal: code for Baichoo et al., 'Laboratory test-ordering patterns carry an early prognostic signal in electronic health records'"
+authors:
+  - name: "Baichoo et al."
+contact:
+  - family-names: Baichoo
+    given-names: Shakuntala
+    email: shakun.baichoo@gmail.com
+version: "1.0.0"
+date-released: 2026-06-22
+license: MIT
+repository-code: "https://github.com/ShakunBaichoo/physician-ordering-signal"
+preferred-citation:
+  type: article
+  title: "Laboratory test-ordering patterns carry an early prognostic signal in electronic health records"
+  authors:
+    - name: "Baichoo et al."
+  year: 2026
+  journal: "(in submission)"
